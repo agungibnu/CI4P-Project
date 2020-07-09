@@ -1,0 +1,13 @@
+/* ukuran thumnail */
+.sampul {
+  width: 100px;
+}
+
+/* tampilan isi tabel di tengah */
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+
+.carousel-item {
+  height: 700px;
+}
